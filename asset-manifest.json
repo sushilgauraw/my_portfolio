@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/my_protfolio/static/css/main.9bdfb14b.css",
+    "main.js": "/my_protfolio/static/js/main.0a99e804.js",
+    "static/js/787.586b53ef.chunk.js": "/my_protfolio/static/js/787.586b53ef.chunk.js",
+    "static/media/home3.jpg": "/my_protfolio/static/media/home3.ba09047cfa9acdf5b7c2.jpg",
+    "static/media/bg1.jpg": "/my_protfolio/static/media/bg1.a3c856f47b8a3cd9a470.jpg",
+    "static/media/Project9.png": "/my_protfolio/static/media/Project9.f811c54bf7ace7de6bbc.png",
+    "static/media/Project8.png": "/my_protfolio/static/media/Project8.4bb4480ab271934a9e03.png",
+    "static/media/bg2.jpg": "/my_protfolio/static/media/bg2.029637872dc598d68654.jpg",
+    "static/media/Project14.png": "/my_protfolio/static/media/Project14.062147d5a25f9806bfce.png",
+    "static/media/Project16.png": "/my_protfolio/static/media/Project16.726cbedce0b9836d0cc0.png",
+    "static/media/Project5.png": "/my_protfolio/static/media/Project5.7579a5652efc1e774675.png",
+    "static/media/Image2.jpg": "/my_protfolio/static/media/Image2.4d0ccc0d70503c8409a6.jpg",
+    "static/media/Project13.png": "/my_protfolio/static/media/Project13.10fe54bbbf6cebc3bf87.png",
+    "static/media/home.jpg": "/my_protfolio/static/media/home.e7087ba2e6d85b7d6bf5.jpg",
+    "static/media/Project12.png": "/my_protfolio/static/media/Project12.e547d54805c2b66c7718.png",
+    "static/media/Project6.png": "/my_protfolio/static/media/Project6.4fe8a0fbbc589a77ff52.png",
+    "static/media/Project1.png": "/my_protfolio/static/media/Project1.ef75d75bb615754ef8e3.png",
+    "static/media/Project7.png": "/my_protfolio/static/media/Project7.8f3115fccb1f235da87d.png",
+    "static/media/Project2.png": "/my_protfolio/static/media/Project2.62a3c4be2e5a74b733f3.png",
+    "static/media/Project3.png": "/my_protfolio/static/media/Project3.761c3e8ca9696d49a9fd.png",
+    "static/media/myImage.png": "/my_protfolio/static/media/myImage.136a2c55973e1c5ee0bf.png",
+    "static/media/Project4.png": "/my_protfolio/static/media/Project4.8072ee482294ebb7563c.png",
+    "static/media/suhilResume.doc": "/my_protfolio/static/media/suhilResume.db1d4668589ca2131f5a.doc",
+    "static/media/revicons.eot": "/my_protfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/my_protfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/my_protfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/my_protfolio/index.html",
+    "main.9bdfb14b.css.map": "/my_protfolio/static/css/main.9bdfb14b.css.map",
+    "main.0a99e804.js.map": "/my_protfolio/static/js/main.0a99e804.js.map",
+    "787.586b53ef.chunk.js.map": "/my_protfolio/static/js/787.586b53ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bdfb14b.css",
+    "static/js/main.0a99e804.js"
+  ]
+}
