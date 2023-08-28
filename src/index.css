@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Cormorant+Garamond:wght@500&family=Inconsolata:wght@200&family=Kanit:ital,wght@1,300;1,500;1,600&family=Mouse+Memoirs&family=Oswald:wght@300&family=Outfit:wght@100;200;300;400;500;600;700;800;900&family=Poppins:wght@400;500&family=Raleway&family=Roboto+Slab:wght@900&display=swap');
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Outfit', sans-serif;
+}
+body{
+  background-color:white;
+}
+h1,h4,p,a,h2{
+  color: #fff;
+  text-decoration: none;
+}
+ul{
+  list-style-type: none;
+}
+.btn{
+  position: relative;
+  right: 50%;
+  padding: 15px 32px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  background: linear-gradient(90deg, #95afc0 0%,#95afc0 100%);
+  transform: translate(-50%, -50%);
+  animation: ring 1.5s infinite;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+  opacity: 1;
+  color: #222;
+  border-radius: 15px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.btn-light{
+  background-color: transparent;
+  color: #fff;
+}
+.btn:hover{
+  background: rgba(255,255,255,0.2);
+  color: #fff;
+  transition: 0.3s;
+}

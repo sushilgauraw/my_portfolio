@@ -1,0 +1,57 @@
+.about{
+    padding: 100px;
+    height: 100%;
+    width: 100%;
+    margin: 10px 0px;
+    box-shadow: rgba(23, 23, 99, 0.25) 0px 50px 100px -20px, rgba(20, 20, 20, 0.3) 0px 30px 60px -30px, rgba(11, 24, 37, 0.35) 0px -2px 6px 0px inset;
+    /* background-color: rgba(255, 255, 255, .4); */
+}
+.Heading-part1{
+    color: black;
+    position: relative;
+    font-size: 40px;
+    margin-bottom: 5px;
+}
+.Para1{
+    text-align: center;
+    position: relative;
+    left: -3%;
+    width: 550px;
+
+}
+.Para-text1{
+    color: black;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+
+}
+.button-section{
+    border-color:rgb(31, 30, 30);
+    padding: 10px 20px;
+    margin: 20px 20px;
+    font-size: 20px;
+    color:black;
+    border-radius: 15px;   
+}
+.button-section:hover{
+    background: linear-gradient(45deg,#a29bfe,#6c5ce7);
+    color: white;
+    cursor: pointer;
+}
+.Image1{
+    width: 800px;
+    height: 800px;
+    position: absolute;
+    right: -50vh;
+    top: 129%;
+}
+.Image-section1{
+    height: 400px;
+    width: 400px;
+    padding: 10px;
+    border-radius: 25px;
+    position: absolute;
+    top: 18%;
+}
+
